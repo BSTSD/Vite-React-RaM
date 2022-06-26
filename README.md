@@ -6,4 +6,4 @@ List of all charactes of Rick And Morty.
 
 Frames :
 
-Vite, React, Bootstrap
+Vite, React, Bootstrap.
