@@ -2,7 +2,7 @@
 
 About:
 
-List of all charactes of Rick And Morty.
+List of all characters of Rick And Morty.
 
 Frames :
 
